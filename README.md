@@ -20,7 +20,7 @@ We have also tested under other settings, like torch 1.11.0+cu113&pyg2.4.0. The 
 
 `/log`: running logs, the running results will be written into a .log file at this dir.
 
-`/graphlet`: an independent package where we offer our implement for graphlet kernels. You may unzip the `graphlet.zip` into `/data`. 
+`/graphlet`: an independent package where we offer our implement for graphlet kernels. You may unzip the `graphlet.zip` into `/graphlet`. 
 
 `dataloader.py`: organize the data training batches into dataloader
 
