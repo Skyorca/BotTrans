@@ -1,5 +1,7 @@
 ## BotTrans Official Code Repo
 
+![Transfer Bot Knowledge across Social Networks (by DouBao)](./assets/bottrans.png)
+
 ### Running settings
 
 #### Env Config
